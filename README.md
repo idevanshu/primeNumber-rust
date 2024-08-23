@@ -16,12 +16,7 @@
   <h3>Quick Start</h3>
   <pre><code>cargo new primegpu</code></pre>
   <strong> Cargo.toml </strong>
-  <pre><code> [package]
-name = "primegpu"
-version = "0.1.0"
-edition = "2021"
-[dependencies]
-ocl = "0.19.7"
+  <pre><code> git clone https://github.com/idevanshu/primeNumber-rust.git
 </code>
 </pre>
 
