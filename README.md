@@ -3,7 +3,7 @@
     <div>
         <h1>Prime Number Finder with NVIDIA GPU</h1>
   <h3>Overview</h3>
-  <strong>This project is a high-performance prime number finder that leverages the power of NVIDIA GPUs using the OpenCL framework. The application finds prime numbers up to a specified limit by utilizing the parallel computing capabilities of NVIDIA GPUs.</strong>
+  <strong>This project is a high-performance prime number finder that harnesses the computational power of NVIDIA GPUs through the OpenCL framework. By leveraging the parallel processing capabilities of GPUs, the application accelerates the search for prime numbers up to a specified limit, achieving faster results compared to traditional CPU-based methods.</strong>
   
   <h3>Requirements</h3>
         <ul>
